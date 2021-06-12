@@ -1,0 +1,10 @@
+C:\Users\Asus\Source\Repos\Calc\Calc\bin\x64\Debug\Calc.exe.config
+C:\Users\Asus\Source\Repos\Calc\Calc\bin\x64\Debug\Calc.exe
+C:\Users\Asus\Source\Repos\Calc\Calc\bin\x64\Debug\Calc.pdb
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.Form1.resources
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.exe
+C:\Users\Asus\Source\Repos\Calc\Calc\obj\x64\Debug\Calc.pdb
