@@ -1,0 +1,14 @@
+﻿<Window x:Name="window" x:Class="Lab_6_Sem_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_6_Sem_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MouseMove="Window_MouseMove">
+    <Grid>
+        <Button x:Name="button1" Content="Ok!" Width="150" Height="150" Margin="325,83,325,201"/>
+        <Button x:Name="button2" Content="Cancel" Margin="358,391,352,0" Click="button2_Click"/>
+
+    </Grid>
+</Window>
