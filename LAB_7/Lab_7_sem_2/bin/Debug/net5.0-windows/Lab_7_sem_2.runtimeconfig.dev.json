@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Endless Despair\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Endless Despair\\.nuget\\packages",
+      "D:\\Visual Studio\\NuGetPackages"
+    ]
+  }
+}
