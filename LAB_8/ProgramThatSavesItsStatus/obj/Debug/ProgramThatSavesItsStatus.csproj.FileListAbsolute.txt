@@ -1,0 +1,11 @@
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\bin\Debug\ProgramThatSavesItsStatus.exe.config
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\bin\Debug\ProgramThatSavesItsStatus.exe
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\bin\Debug\ProgramThatSavesItsStatus.pdb
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.csprojAssemblyReference.cache
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.Form1.resources
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.Properties.Resources.resources
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.ResultForm.resources
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.csproj.GenerateResource.cache
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.csproj.CoreCompileInputs.cache
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.exe
+C:\Лаби сi шарп\ProgramThatSavesItsStatus\ProgramThatSavesItsStatus\obj\Debug\ProgramThatSavesItsStatus.pdb
